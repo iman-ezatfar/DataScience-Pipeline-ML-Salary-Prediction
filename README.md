@@ -117,10 +117,18 @@ Models applied:
 
 ```bash
 # Using HTTPS
-git clone https://github.com/iman-ezatfar/Data-Professional-Salary-Prediction.git
-
+git clone https://github.com/iman-ezatfar/DataScience-Pipeline-ML-Salary-Prediction.git
+```
 # Using SSH
-git clone git@github.com:iman-ezatfar/Data-Professional-Salary-Prediction.git
-
+```bash
+git clone git@github.com:iman-ezatfar/DataScience-Pipeline-ML-Salary-Prediction.git
+```
 # Using GitHub CLI
-gh repo clone iman-ezatfar/Data-Professional-Salary-Prediction
+```bash
+gh repo clone iman-ezatfar/DataScience-Pipeline-ML-Salary-Prediction
+```
+
+## Contact
+
+<a href="https://www.linkedin.com/in/imanezatfar"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:iman.ezatfar89@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>

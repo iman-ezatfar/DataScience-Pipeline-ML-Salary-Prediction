@@ -1,8 +1,5 @@
 # 💼 Data Professional Salary Prediction – Multi-Model Analysis in Python
 
-📊 **Dashboard Snapshot**  
-*Modeling and analysis done in Google Colab across 3 structured notebooks.*  
-
 ## 🔗 Clickable Code Notebooks
 
 To see the code for each part, click on the corresponding image below:

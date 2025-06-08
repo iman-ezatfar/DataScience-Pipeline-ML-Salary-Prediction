@@ -1,4 +1,6 @@
-💼 Data Science Pipeline Using Machine Learning Methods (Multi-Model) for Data Professional Salary Prediction
+## 💼 Data Science Pipeline Using Machine Learning Methods (Multi-Model)  
+## Data Professional Salary Prediction
+
 
 ## 🔗 Clickable Code Notebooks
 

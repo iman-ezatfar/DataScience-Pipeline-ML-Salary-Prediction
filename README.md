@@ -1,4 +1,4 @@
-# 💼 Data Professional Salary Prediction – Multi-Model Analysis in Python
+💼 Data Science Pipeline Using Machine Learning Methods (Multi-Model) for Data Professional Salary Prediction
 
 ## 🔗 Clickable Code Notebooks
 

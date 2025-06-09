@@ -1,4 +1,4 @@
-## 💼 Data Science Pipeline Using Machine Learning Methods (Multi-Model)  
+##  Data Science Pipeline Using Machine Learning Methods (Multi-Model)  
 ## Data Professional Salary Prediction
 
 
@@ -31,7 +31,7 @@ To see the code for each part, click on the corresponding image below:
 
 ---
 
-## 🔍 Overview  
+##  Overview  
 This project explores and predicts salaries for data professionals (Data Analysts, Data Scientists, Data Engineers, etc.) across various U.S. states. Built in three comprehensive phases, the analysis covers data cleaning, exploratory data analysis (EDA), regression modeling, and classification-based prediction of salary satisfaction.
 
 It helps answer business-critical questions such as:
@@ -41,7 +41,7 @@ It helps answer business-critical questions such as:
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 - What are the key factors affecting data professional salaries in the U.S.?
 - Can we accurately estimate salary using regression?
 - How well do different classification models perform in determining salary satisfaction?
@@ -49,9 +49,9 @@ It helps answer business-critical questions such as:
 
 ---
 
-## ⚙️ Project Structure
+##  Project Structure
 
-### 🔹 Part 1: Data Preprocessing & EDA  
+###  Part 1: Data Preprocessing & EDA  
  
 - Imported essential libraries  
 - Mounted Google Drive and imported dataset  
@@ -62,7 +62,7 @@ It helps answer business-critical questions such as:
 
 ---
 
-### 🔹 Part 2: Linear Regression Modeling  
+###  Part 2: Linear Regression Modeling  
 
 - Trained a Linear Regression model to estimate salaries  
 - Model performance: **MAE ≈ 23.71**  
@@ -70,7 +70,7 @@ It helps answer business-critical questions such as:
 
 ---
 
-### 🔹 Part 3: Classification Modeling  
+###  Part 3: Classification Modeling  
 
 Objective: Predict whether a salary is satisfactory (binary classification)
 
@@ -84,12 +84,12 @@ Models applied:
 
 ## 📈 Key Metrics & Results
 
-### 🔢 Regression Model
+###  Regression Model
 | Model              | Goal              | Metric         | Value    |
 |-------------------|-------------------|----------------|----------|
 | Linear Regression | Salary Prediction | MAE            | 23.71    |
 
-### 🧪 Classification Models (Satisfactory Salary Prediction)
+###  Classification Models (Satisfactory Salary Prediction)
 
 | Model                | Accuracy |
 |----------------------|----------|
@@ -98,12 +98,12 @@ Models applied:
 | K-Nearest Neighbors  | 0.65     |
 | Logistic Regression  | 0.69     | 
 
-> ✅ *Random Forest* outperformed all other classifiers with the highest accuracy and balanced precision, recall, and F1-score.  
-> 📉 Other models show moderate performance, offering comparison for further tuning or ensembling.
+>  *Random Forest* outperformed all other classifiers with the highest accuracy and balanced precision, recall, and F1-score.  
+>  Other models show moderate performance, offering comparison for further tuning or ensembling.
 
 ---
 
-## 🧠 Tools and Techniques Used  
+##  Tools and Techniques Used  
 - Python (Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib)  
 - Regression and Classification Models  
 - Google Colab  
@@ -112,7 +112,7 @@ Models applied:
 
 ---
 
-## 📎 Clone This Repository
+##  Clone This Repository
 
 ```bash
 # Using HTTPS
